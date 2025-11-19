@@ -1,4 +1,4 @@
-# 🇸🇬 Singapore Income Inequality Analysis  
+# Singapore Income Inequality Analysis  
 ### Programming with Data – Coursework Project
 
 This repository contains a full data-analysis project exploring **income inequality in Singapore**, using official datasets from **SingStat**. The project includes data cleaning, ethical considerations, exploratory analysis, geospatial mapping, and statistical visualizations.
